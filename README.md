@@ -182,7 +182,7 @@ docker-compose up --build
 
 ## 🔄 Chargement des données (ETL)
 
-Le script `etl.py` permet de charger automatiquement les questions fournies (fichier CSV) dans la base MongoDB.
+Le script `etl.py` permet de charger automatiquement les questions fournies (fichier CSV) dans la base MongoDB
 
 ```bash
 python etl.py
